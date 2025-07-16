@@ -6,5 +6,9 @@
   {
     "package": "fifo",
     "url": "https://codeberg.org/adamhsparks/fifo"
+  },
+  {
+    "package": "misc.debris",
+    "url": "https://codeberg.org/adamhsparks/misc.debris"
   }
 ]
